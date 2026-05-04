@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+joblib
+transformers
+torch
+streamlit
+flask
+flask-cors
+matplotlib
+seaborn
+plotly
+WordCloud
